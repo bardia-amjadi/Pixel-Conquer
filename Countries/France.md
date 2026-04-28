@@ -1,5 +1,5 @@
 # France
-#### 💰 Asset : 490K
+#### 💰 Asset : 325K
 #### 💵 Income : 475K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
@@ -13,8 +13,8 @@
 #### 🛡 Defend Force : 0
 
 ### 🥼Knowledge
-#### Unversities : 0
-#### 🧪 Knowledge Power : 1
+#### Unversities : 1
+#### 🧪 Knowledge Power : 2
   
 ### 🔧 Industrial  
 #### 🏭 Factories : 5
