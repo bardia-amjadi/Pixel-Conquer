@@ -20,4 +20,4 @@
 7. Netherland
 8. Canada
 ---
-### 🪖 Best In Millatary
+### 🪖 Best In Military 
