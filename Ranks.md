@@ -14,7 +14,7 @@
 ### 💰 Bests in Income
 1. France (475K) 🟦
 2. Germany (475K) 🟦
-3. United Kingdom (400K) 🟦
+3. United Kingdom (375K) 🟦
 4. Belgium (250K) 🟨
 5. Japen (200K) 🟦
 6. Iran (175K) 🟨
