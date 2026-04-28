@@ -21,6 +21,6 @@
 6. Iran (175K) 🟨
 7. Netherland (90K) 🟨
 8. Canada (90K) 🟦
-9. Norway 🟨
+9. Norway (50K) 🟨
 ---
 ### 🪖 Best In Military 
