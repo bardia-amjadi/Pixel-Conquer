@@ -90,6 +90,7 @@
 #### Needs :
  - Industrial Power Level 6
  - Knowledge Power Level 5
+ - 40Kg Iron
  - 4 Soldier
 #### Income :
  - 5K Using (Everyday) 
