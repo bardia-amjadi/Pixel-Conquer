@@ -80,6 +80,7 @@
 #### Needs :
  - Industrial Power Level 6
  - Knowledge Power Level 5
+ - 4 Soldier
 #### Income :
  - 5K Using (Everyday) 
 #### Limit : 15
