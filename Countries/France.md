@@ -17,7 +17,7 @@
 #### 🧪 Knowledge Power : 1
   
 ### 🔧 Industrial  
-#### 🏭 Factories : 1
+#### 🏭 Factories : 0
 #### Piece of land : 0
 #### Farm : 0
 #### Animal Husbandry: 0
