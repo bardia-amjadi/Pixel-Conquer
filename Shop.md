@@ -1,13 +1,13 @@
 # Shop
 ## Buildings
 ### Factory
-### Price : 50K
-### Needs :
+#### Price : 50K
+#### Needs :
  - 1 Piece of Land
-### Income :
+#### Income :
  - +25K Income
  - +2 Industrial Power
-### Limit : 5
+#### Limit : 5
 ---
 ## mine
 
