@@ -76,7 +76,7 @@
 ---
 ## 🔫 Millitary Items
 ### ✈ Air-Fighter
-#### Price : 20
+#### Price : 20K
 #### Needs :
  - Industrial Power Level 6
  - Knowledge Power Level 5
@@ -90,3 +90,4 @@
 ### 🪖 Commander
 ### 🚀 Missles 
 ### 🛡 Anti-Air
+### ⚛️ Atom Bomb
