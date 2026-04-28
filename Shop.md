@@ -1,5 +1,5 @@
 # Shop
-## Buildings
+## 🔨 Buildings
 ### 🏗 Factory
 #### Price : 50K
 #### Needs :
@@ -56,7 +56,19 @@
  - +10KL Oil (Using) 
 #### Limit : 7
 ---
-## mine
-
---
-## Millitary Items
+## Mine
+### 🪨 Iron Mine
+### 🪨 Petroleum Mine
+### Gold Mine
+### 🔥 Uranium Mine
+### 💎 Diamond Mine
+---
+## 🔫 Millitary Items
+### ✈ Air-Fighter
+### ✈ Air-Bomber
+### 🚢 Navy
+### 🚢 Attack Ship
+### 🪖 Soldier
+### 🪖 Commander
+### 🚀 Missles 
+### 🛡 Anti-Air
