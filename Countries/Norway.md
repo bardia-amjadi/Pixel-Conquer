@@ -1,6 +1,6 @@
 # Norway
 #### 💰 Asset : 185K
-#### 💵 Income : 175K per day   
+#### 💵 Income : 165K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
