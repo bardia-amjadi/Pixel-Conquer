@@ -3,5 +3,5 @@
  - Give : 200K
  - Return : 210K
 
-- [×] Gived
+- [ ] Gived
 - [ ] Returned 
