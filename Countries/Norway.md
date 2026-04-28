@@ -1,6 +1,6 @@
 # Norway
-#### 💰 Asset : 500K
-#### 💵 Income : 50K per day   
+#### 💰 Asset : 150K
+#### 💵 Income : 175K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
@@ -17,11 +17,12 @@
 #### 🧪 Knowledge Power : 1
   
 ### 🔧 Industrial  
-#### 🏭 Factories : 0
+#### 🏭 Factories : 5
 #### Farm : 0
+#### Lands : 0
 #### Animal Husbandry: 0
 #### Petrochemical : 0
-#### 🔨 Industrial power : 0
+#### 🔨 Industrial power : 10vlv
 #### Shopping center : 0
 
 ### Nuclear energy
