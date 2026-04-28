@@ -81,7 +81,18 @@
 #### Limit : 5
 ---
 ### 🪙 Gold Mine
+---
 ### 🔥 Uranium Mine
+#### Price : 300K
+#### Needs :
+ - 2 Piece of Land
+ - Industrial Power Level 10
+ - Knowledge Power Level 5
+#### Income :
+ - 20K Using (Everyday)
+ - +40Kg Uranium (Everyday) 
+#### Limit : 10
+---
 ### 💎 Diamond Mine
 ---
 ## 🔫 Millitary Items
