@@ -44,9 +44,9 @@
 ### ⚗ Ores
 #### 🪨 Iron : 0kg
 #### 🛢 Petroleum : 0b
-#### ⛽Gasoline : 0b
-#### 🔥Uranium : 0kg
+#### ⛽ Gasoline : 0b
+#### 🔥 Uranium : 0kg
 #### 🌀 Enriched uranium : 0kg
 #### Oil  : 0b  
-#### Gold : 0g 
-#### 💎Diamond : 0g 
+#### 🪙 Gold : 0g 
+#### 💎 Diamond : 0g 
