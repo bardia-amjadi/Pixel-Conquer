@@ -56,6 +56,17 @@
  - +10KL Oil (Using) 
 #### Limit : 7
 ---
+### Oil Rig
+#### Price : 160K
+#### Needs :
+ - 3 Piece of Land
+ - Industrial Power Level 8
+ - Knowledge Power Level 5
+#### Income :
+ - 10K (Everyday)
+ - +40KL Petroleum (Everyday) 
+#### Limit : 5
+---
 ## Mine
 ### 🪨 Iron Mine
 ### 🪨 Petroleum Mine
