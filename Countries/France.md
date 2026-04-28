@@ -1,6 +1,6 @@
 # France
-#### 💰 Asset : 2M
-#### 💵 Income : 100k per day   
+#### 💰 Asset : 690K
+#### 💵 Income : 475K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
@@ -17,13 +17,13 @@
 #### 🧪 Knowledge Power : 1
   
 ### 🔧 Industrial  
-#### 🏭 Factories : 0
-#### Piece of land : 0
+#### 🏭 Factories : 5
+#### Piece of land : 18
 #### Farm : 0
 #### Animal Husbandry: 0
 #### Petrochemical : 0
-#### 🔨 Industrial power : 2
-#### Shopping center : 0 
+#### 🔨 Industrial power : 10
+#### Shopping center : 5
 
 ### Nuclear energy
 #### Reactors : 0
