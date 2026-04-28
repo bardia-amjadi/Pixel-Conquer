@@ -1,4 +1,4 @@
-### Gold
+### 🪙 Gold
 #### The countires who have Gold :
  - Canada
  - Russia
