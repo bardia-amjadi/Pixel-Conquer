@@ -81,7 +81,7 @@
  - Industrial Power Level 6
  - Knowledge Power Level 5
 #### Income :
- - 10K Using (Everyday) 
+ - 5K Using (Everyday) 
 #### Limit : 15
 ### ✈ Air-Bomber
 ### 🚢 Navy
