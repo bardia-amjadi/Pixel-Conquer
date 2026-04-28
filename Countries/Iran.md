@@ -1,11 +1,11 @@
-# ایران
-#### 💰 Asset : 150 هزار دلار   
-#### 💵 Income :175 هزار دلار در روز   
+# Iran
+#### 💰 Asset : 150K
+#### 💵 Income : 175K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
   
-### 🔫 نظامی  
+### 🔫 Military  
 #### 🪖 Ground Force : 0
 #### ✈ Air Force : 0
 #### 🚢 Sea Force : 0
@@ -35,11 +35,11 @@
 #### 💉 Medicine Power: 0
 
 ### ⚗ Ores
-#### 🪨 Iron : 0 کیلوگرم
-#### 🛢 Petroleum : 0 بشکه
-#### ⛽Gasoline : 0 بشکه
-#### 🔥Uranium : 0 کیلوگرم
-#### 🌀 Enriched uranium : 0 کیلوگرم
-#### Oil  : 0 بشکه  
-#### Gold : 0 گرم 
-#### 💎Diamond : 0 گرم 
+#### 🪨 Iron : 0kg
+#### 🛢 Petroleum : 0b
+#### ⛽Gasoline : 0b
+#### 🔥Uranium : 0kg
+#### 🌀 Enriched uranium : 0kg
+#### Oil  : 0b  
+#### Gold : 0g 
+#### 💎Diamond : 0g 
