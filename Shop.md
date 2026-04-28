@@ -56,7 +56,7 @@
  - +10KL Oil (Using) 
 #### Limit : 7
 ---
-### Oil Rig
+### 🛢 Oil Rig
 #### Price : 160K
 #### Needs :
  - 3 Piece of Land
@@ -76,6 +76,13 @@
 ---
 ## 🔫 Millitary Items
 ### ✈ Air-Fighter
+#### Price : 20
+#### Needs :
+ - Industrial Power Level 6
+ - Knowledge Power Level 5
+#### Income :
+ - 10K Using (Everyday) 
+#### Limit : 15
 ### ✈ Air-Bomber
 ### 🚢 Navy
 ### 🚢 Attack Ship
