@@ -1,6 +1,6 @@
 # Japen
 #### 💰 Asset : 575K
-#### 💵 Income : 190K per day   
+#### 💵 Income : 200K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
@@ -22,7 +22,7 @@
 #### Farm : 0
 #### Animal Husbandry: 0
 #### Petrochemical : 0
-#### 🔨 Industrial power : 6
+#### 🔨 Industrial power : 8
 #### Shopping center : 0 
 
 ### Nuclear energy
