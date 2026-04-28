@@ -18,7 +18,7 @@
   
 ### 🔧 Industrial  
 #### 🏭 Factories : 5
-#### Piece of land : 18
+#### Lands : 18
 #### Farm : 0
 #### Animal Husbandry: 0
 #### Petrochemical : 0
