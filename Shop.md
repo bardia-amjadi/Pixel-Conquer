@@ -76,7 +76,7 @@
 ---
 ## 🔫 Millitary Items
 ### ✈ Air-Fighter
-#### Price : 20K
+#### Price : 40K
 #### Needs :
  - Industrial Power Level 6
  - Knowledge Power Level 5
