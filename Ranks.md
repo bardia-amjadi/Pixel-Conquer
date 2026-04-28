@@ -19,6 +19,6 @@
 5. Japen (200K) 🟦
 6. Iran (175K) 🟨
 7. Netherland (90K) 🟨
-8. Canada (90) 🟦
+8. Canada (90K) 🟦
 ---
 ### 🪖 Best In Military 
