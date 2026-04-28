@@ -1,0 +1,45 @@
+# Japen
+#### 💰 Asset : 575K
+#### 💵 Income : 190K per day   
+#### 🙂 Fan : 100%  
+#### 🩹 Health: 100%
+#### Atomic Energy Agency approval : Not Approved
+  
+### 🔫 Military  
+#### 🪖 Ground Force : 0
+#### ✈ Air Force : 0
+#### 🚢 Sea Force : 0
+#### 🚀 Missles : 0
+#### 🛡 Defend Force : 0
+
+### 🥼Knowledge
+#### Unversities : 1
+#### 🧪 Knowledge Power : 2
+  
+### 🔧 Industrial  
+#### 🏭 Factories : 4
+#### Piece of land : 5
+#### Farm : 0
+#### Animal Husbandry: 0
+#### Petrochemical : 0
+#### 🔨 Industrial power : 6
+#### Shopping center : 0 
+
+### Nuclear energy
+#### Reactors : 0
+#### Centrifuge : 0
+#### Atom Bombs : 0
+
+### 💊 Food and Medicine
+#### 🥕 Food Power : 0
+#### 💉 Medicine Power: 0
+
+### ⚗ Ores
+#### 🪨 Iron : 0kg
+#### 🛢 Petroleum : 0b
+#### ⛽Gasoline : 0b
+#### 🔥Uranium : 0kg
+#### 🌀 Enriched uranium : 0kg
+#### Oil  : 0b  
+#### Gold : 0g 
+#### 💎Diamond : 0g 
