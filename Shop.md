@@ -80,7 +80,7 @@
  - +40KL Petroleum (Everyday) 
 #### Limit : 5
 ---
-### Gold Mine
+### 🪙 Gold Mine
 ### 🔥 Uranium Mine
 ### 💎 Diamond Mine
 ---
