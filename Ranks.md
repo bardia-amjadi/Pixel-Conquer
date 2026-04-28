@@ -4,7 +4,7 @@
 ### 💵 Bests In Asset
 1. Germany 🟦
 2. France 🟦
-3. Japen 🟨
+3. Japen 🟦
 4. Netherland 🟨
 5. Canada 🟦
 6. United Kingdom 🟦
