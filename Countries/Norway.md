@@ -1,5 +1,5 @@
 # Norway
-#### 💰 Asset : 350K
+#### 💰 Asset : 185K
 #### 💵 Income : 175K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
@@ -13,8 +13,8 @@
 #### 🛡 Defend Force : 0
 
 ### 🥼Knowledge
-#### Unversities : 0
-#### 🧪 Knowledge Power : 1
+#### Unversities : 1
+#### 🧪 Knowledge Power : 2
   
 ### 🔧 Industrial  
 #### 🏭 Factories : 5
