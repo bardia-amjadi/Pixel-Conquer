@@ -1,6 +1,6 @@
 # United Kingdom
-#### 💰 Asset : 930K
-#### 💵 Income : 125K per day   
+#### 💰 Asset : 230K
+#### 💵 Income : 400K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
@@ -17,13 +17,13 @@
 #### 🧪 Knowledge Power : 1
   
 ### 🔧 Industrial  
-#### 🏭 Factories : 1
+#### 🏭 Factories : 5
 #### Piece of land : 0
 #### Farm : 0
 #### Animal Husbandry: 0
 #### Petrochemical : 0
-#### 🔨 Industrial power : 2
-#### Shopping center : 0 
+#### 🔨 Industrial power : 10
+#### Shopping center : 3 
 
 ### Nuclear energy
 #### Reactors : 0
