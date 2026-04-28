@@ -1,5 +1,5 @@
 # France
-#### 💰 Asset : 1M
+#### 💰 Asset : 2M
 #### 💵 Income : 100k per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
