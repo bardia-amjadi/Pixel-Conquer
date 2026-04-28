@@ -8,7 +8,7 @@
 6. Canada (265K) 🟦
 7. United Kingdom (230K) 🟦
 8. Iran (150K) 🟨
-9. 4. Norway (150k) 🟨
+9. Norway (150k) 🟨
 10. Belgium (10K) 🟨
 
 ---
@@ -16,7 +16,7 @@
 1. France (475K) 🟦
 2. Germany (475K) 🟦
 3. United Kingdom (375K) 🟦
-4. Belgium (250K) 🟨
+4. Belgium (225K) 🟨
 5. Japen (200K) 🟦
 6. Norway (175K) 🟨
 7. Iran (175K) 🟨
