@@ -1,6 +1,6 @@
 # Germany
 #### 💰 Asset : 1.25M
-#### 💵 Income : 475 per day   
+#### 💵 Income : 475K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
