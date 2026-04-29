@@ -5,8 +5,9 @@
 2. France (965K) 🟦
 3. Japen (775K) 🟦
 4. United Kingdom (605K) 🟦
-5. Canada (355K) 🟦
-6. Netherland (355K) 🟨
+5. Portugal (400K) 🟨
+6. Canada (355K) 🟦
+7. Netherland (355K) 🟨
 8. Norway (350K) 🟨
 9. Iran (325K) 🟨
 10. Belgium (260K) 🟨
@@ -22,6 +23,7 @@
 8. Norway (165K) 🟨
 9. Netherland (90K) 🟨
 10. Canada (90K) 🟦
+11. Portugal (50K) 🟨
    
 ---
 ### 🪖 Best In Military 
