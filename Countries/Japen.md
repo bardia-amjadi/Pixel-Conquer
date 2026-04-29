@@ -6,9 +6,9 @@
 #### Atomic Energy Agency approval : Not Approved
   
 ### 🔫 Military  
-#### 🪖 Ground Force : 0
-#### ✈ Air Force : 0
-#### 🚢 Sea Force : 0
+#### 🪖 Soldiers : 0
+#### ✈ Jet-Fighters : 0
+#### 🚢 Sea Navy : 0
 #### 🚀 Missles : 0
 #### 🛡 Defend Force : 0
 
