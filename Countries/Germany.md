@@ -1,5 +1,5 @@
 # Germany
-#### 💰 Asset : 1.25M
+#### 💰 Asset : 1.725M
 #### 💵 Income : 475K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
