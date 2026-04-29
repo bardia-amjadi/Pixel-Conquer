@@ -1,5 +1,5 @@
 # Shop
-## 🔨 Buildings
+## 🔨 Insustry
 ### 🏗 Factory
 #### Price : 50K
 #### Needs :
@@ -55,7 +55,16 @@
  - 40Kl Petroleum Use (Using)
  - +10KL Oil (Using) 
 #### Limit : 7
-
+--- Knowledge
+### 🥼 University
+#### Price : 125K
+#### Needs :
+ - 2 Piece of Land
+ - Industrial Power Level 4
+#### Income :
+ - 10K Use (Everyday)
+ - +1 Knowledge Power (Once) 
+#### Limit : 15
 ---
 ## Mine
 ### 🪨 Iron Mine 
