@@ -1,6 +1,6 @@
 # United Kingdom
 #### 💰 Asset : 605K
-#### 💵 Income : 375K per day   
+#### 💵 Income : 475K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
