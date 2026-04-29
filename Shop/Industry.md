@@ -27,7 +27,6 @@
  - 1 Piece of Land
  - Industrial Power Level 8
  - Knowledge Power Level 2
- - Food Power 80 Point
 #### Income :
  - 20K Use (Everyday)
  - +30 Food Power (Once)
