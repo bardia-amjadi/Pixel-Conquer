@@ -27,3 +27,10 @@
    
 ---
 ### 🪖 Best In Military 
+
+---
+### 💰 Bests in Petroleum
+1. France
+
+---
+### 💰 Bests in Uranium
