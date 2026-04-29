@@ -72,6 +72,7 @@
 ### 🛢 Oil Rig
 #### Price : 160K
 #### Needs :
+ - Petroleum Land
  - 3 Piece of Land
  - Industrial Power Level 8
  - Knowledge Power Level 5
@@ -85,6 +86,7 @@
 ### 🔥 Uranium Mine
 #### Price : 300K
 #### Needs :
+ - Uranium Land
  - 2 Piece of Land
  - Industrial Power Level 10
  - Knowledge Power Level 5
