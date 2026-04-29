@@ -24,11 +24,11 @@
 #### 🏭 Factories : 5
 #### Piece of land : 0
 #### Farm : 0
-#### Lands : 0
+#### Lands : 5
 #### Animal Husbandry: 0
 #### Petrochemical : 0
 #### 🔨 Industrial power : 0  
-#### Shopping center : 0 
+#### Shopping center : 5
 ---
 
 ### Nuclear energy
