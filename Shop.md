@@ -66,6 +66,37 @@
  - 10K Use (Everyday)
  - +1 Knowledge Power (Once) 
 #### Limit : 15
+
+---
+## Health
+### Hospital
+#### Price : 70K
+#### Needs :
+ - 2 Piece of Land
+ - Industrial Power Level 4
+ - Knowledge Power 6
+#### Income :
+ - 10K Use (Everyday)
+ - Heal 500pot (Once) 
+#### Limit : 5
+
+---
+## Tools
+### Land
+#### Price : 20K
+---
+### Centrifuge
+#### Price : 100K
+#### Needs :
+ - Industrial Power Level 8
+ - Knowledge Power 6
+#### Income :
+ - 15K Use (Everyday)
+ - 20Kg Uranium Use (Using)
+ - 17 Kg Enriched Uranium (Using)
+#### Cool Down : 1 Day
+#### Limit : 7
+
 ---
 ## Mine
 ### 🪨 Iron Mine 
