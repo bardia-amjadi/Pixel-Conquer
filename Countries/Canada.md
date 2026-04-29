@@ -1,6 +1,6 @@
 # Canada
-#### 💰 Asset : 355K
-#### 💵 Income : 90K per day   
+#### 💰 Asset : 25K
+#### 💵 Income : 70K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
@@ -13,8 +13,8 @@
 #### 🛡 Defend Force : 0
 
 ### 🥼Knowledge
-#### Unversities : 0
-#### 🧪 Knowledge Power : 1
+#### Unversities : 2
+#### 🧪 Knowledge Power : 3
   
 ### 🔧 Industrial  
 #### 🏭 Factories : 2
