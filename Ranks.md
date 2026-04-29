@@ -16,8 +16,8 @@
 1. 🥇 Japan (675K) 🟦
 2. 🥈 Belgium (540K) 🟨
 3. 🥉 Portugal (400K) 🟨
-4. Norway (250K) 🟨
-5. United Kingdom (325K) 🟦
+4. United Kingdom (325K) 🟦
+5. Norway (250K) 🟨
 6. Netherland (100K) 🟨
 7. Germany (100K) 🟦
 8. Canada (25K) 🟨
