@@ -76,7 +76,6 @@
  - Industrial Power Level 4
  - Knowledge Power 6
 #### Income :
- - 10K Use (Everyday)
  - Heal 500pot (Once) 
 #### Limit : 5
 
@@ -149,11 +148,32 @@
 #### Income :
  - 5K Using (Everyday) 
 #### Limit : 15
+---
 ### ✈ Air-Bomber
+---
 ### 🚢 Navy
+---
 ### 🚢 Attack Ship
+---
 ### 🪖 Soldier
-### 🪖 Commander
+#### Price : 20K
+#### Income :
+ - 5K Using (Everyday)
+ - 20 Food Power Using (Once)
+ - +4 Soldier
+#### Limit : 15
+---
 ### 🚀 Missles 
+---
 ### 🛡 Anti-Air
+---
 ### ⚛️ Atom Bomb
+#### Price : 10K
+#### Needs :
+ - 200Kg Enriched uranium
+ - 120Kbbl Petroleum
+ - 30Kbbl Oil 
+ - 160Kg Iron
+ - 4 Soldier
+#### Income :
+ - +1 Atom Bomb (Once)
