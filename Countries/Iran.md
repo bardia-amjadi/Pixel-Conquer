@@ -1,7 +1,7 @@
 # Iran
 ### Main Information
-#### 💰 Asset : 800K
-#### 💵 Income : 175K per day   
+#### 💰 Asset : 0K
+#### 💵 Income : 724K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
