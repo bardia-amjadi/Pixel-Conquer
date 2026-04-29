@@ -1,29 +1,29 @@
 # Ranks (Outdated)
 🟨 = Class B , 🟦 = Class A
-### 💵 Bests In Asset
-1. Germany (1.725M) 🟦
-2. France (965K) 🟦
-3. Japen (775K) 🟦
-4. United Kingdom (605K) 🟦
-5. Portugal (400K) 🟨
-6. Canada (355K) 🟦
-7. Netherland (355K) 🟨
-8. Norway (350K) 🟨
-9. Iran (325K) 🟨
-10. Belgium (260K) 🟨
+### 💵 Bests In Income
+1. Iran
+2. United Kingdom
+3. France
+4. Germany
+5. Belgium
+6. Japen
+7. Norway
+8. Netherland
+9. Canada
+10. Portugal
 
 ---
-### 💰 Bests in Income
-1. France (475K) 🟦
-2. Germany (475K) 🟦
-3. United Kingdom (375K) 🟦
-4. Belgium (225K) 🟨
-5. Japen (200K) 🟦
-7. Iran (175K) 🟨
-8. Norway (165K) 🟨
-9. Netherland (90K) 🟨
-10. Canada (90K) 🟦
-11. Portugal (50K) 🟨
+### 💰 Bests in Asset
+1. Japen
+2. United Kingdom
+3. Portugal
+4. Canada
+5. Norway
+6. Belgium
+7. Netherland
+8. Germany
+9. France
+10. Iran
    
 ---
 ### 🪖 Best In Military 
