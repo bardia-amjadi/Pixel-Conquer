@@ -55,7 +55,8 @@
  - 40Kl Petroleum Use (Using)
  - +10KL Oil (Using) 
 #### Limit : 7
---- Knowledge
+--- 
+## Knowledge
 ### 🥼 University
 #### Price : 125K
 #### Needs :
