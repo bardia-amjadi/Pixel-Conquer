@@ -30,7 +30,7 @@
 
 ---
 ### 🛢 Bests in Petroleum
-1. France
+1. France 🟦
 
 ---
 ### 🔥 Bests in Uranium
