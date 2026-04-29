@@ -2,7 +2,7 @@
 #### 💰 Asset : 350K
 #### 💵 Income : 165K per day   
 #### 🙂 Fan : 100%  
-#### 🩹 Health: 100%
+#### 🩹 Health: 32,000
 #### Atomic Energy Agency approval : Not Approved
   
 ### 🔫 Military  
