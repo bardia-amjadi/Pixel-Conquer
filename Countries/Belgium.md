@@ -1,6 +1,6 @@
 # Belgium
-#### 💰 Asset : 1.26M
-#### 💵 Income : 250K per day   
+#### 💰 Asset : 540M
+#### 💵 Income : 425K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
@@ -19,11 +19,11 @@
 ### 🔧 Industrial  
 #### 🏭 Factories : 5
 #### Farm : 0
-#### Lands : 0
+#### Lands : 8
 #### Animal Husbandry: 0
 #### Petrochemical : 0
 #### 🔨 Industrial power : 10
-#### Shopping center : 1
+#### Shopping center : 5
 
 ### Nuclear energy
 #### Reactors : 0
