@@ -1,0 +1,52 @@
+# India
+### Main Information
+#### 💰 Asset : 1M
+#### 💵 Income : 500K per day   
+#### 🙂 Fan : 100%  
+#### 🩹 Health: 40,000
+#### Atomic Energy Agency approval : Not Approved
+---
+### 🔫 Military  
+#### 🪖 Soldiers : 0
+#### ✈ Jet-Fighters : 0
+#### 🚢 Sea Navy : 0
+#### 🚀 Missles : 0
+#### 🛡 Defend Force : 0
+---
+
+### 🥼Knowledge
+#### Unversities : 0
+#### 🧪 Knowledge Power : 1
+---
+  
+### 🔧 Industrial  
+#### 🏭 Factories : 0
+#### Piece of land : 0
+#### Farm : 0
+#### Lands : 0
+#### Animal Husbandry: 0
+#### Petrochemical : 0
+#### 🔨 Industrial power : 0  
+#### Shopping center : 0
+---
+
+### Nuclear energy
+#### Reactors : 0
+#### Centrifuge : 0
+#### Atom Bombs : 0
+
+---
+### 💊 Food and Medicine
+#### 🥕 Food Power : 0
+#### 💉 Medicine Power: 0
+
+---
+### ⚗ Ores
+#### 🪨 Iron : 0kg
+#### 🛢 Petroleum : 0b
+#### ⛽ Gasoline : 0b
+#### 🔥 Uranium : 0kg
+#### 🌀 Enriched uranium : 0kg
+#### Oil  : 0b  
+#### 🪙 Gold : 0g 
+#### 💎 Diamond : 0g 
