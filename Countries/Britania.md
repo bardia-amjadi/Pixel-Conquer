@@ -1,5 +1,5 @@
 # United Kingdom
-#### 💰 Asset : 605K
+#### 💰 Asset : 325K
 #### 💵 Income : 475K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
