@@ -1,6 +1,6 @@
 # Germany
-#### 💰 Asset : 1.725M
-#### 💵 Income : 475K per day   
+#### 💰 Asset : 100K
+#### 💵 Income : 265K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
@@ -13,15 +13,14 @@
 #### 🛡 Defend Force : 0
 
 ### 🥼Knowledge
-#### Unversities : 0
-#### 🧪 Knowledge Power : 1
+#### Unversities : 6
+#### 🧪 Knowledge Power : 7
   
 ### 🔧 Industrial  
 #### 🏭 Factories : 5
-#### Piece of land : 35
-#### Farm : 0
-#### Lands : 0
-#### Animal Husbandry: 0
+#### Farm : 5
+#### Lands : 13
+#### Animal Husbandry: 5
 #### Petrochemical : 0
 #### 🔨 Industrial power : 10
 #### Shopping center : 5 
