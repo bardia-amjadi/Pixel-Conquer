@@ -1,6 +1,6 @@
 # Netherland
-#### 💰 Asset : 355K
-#### 💵 Income : 90K per day   
+#### 💰 Asset : 100K
+#### 💵 Income : 165K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
 #### Atomic Energy Agency approval : Not Approved
@@ -17,12 +17,12 @@
 #### 🧪 Knowledge Power : 1
   
 ### 🔧 Industrial  
-#### 🏭 Factories : 2
-#### Lands : 0
+#### 🏭 Factories : 5
+#### Lands : 1
 #### Farm : 1
 #### Animal Husbandry: 0
 #### Petrochemical : 0
-#### 🔨 Industrial power : 0  
+#### 🔨 Industrial power : 10 
 #### Shopping center : 4
 
 ### Nuclear energy
