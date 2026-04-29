@@ -174,6 +174,5 @@
  - 120Kbbl Petroleum
  - 30Kbbl Oil 
  - 160Kg Iron
- - 4 Soldier
 #### Income :
  - +1 Atom Bomb (Once)
