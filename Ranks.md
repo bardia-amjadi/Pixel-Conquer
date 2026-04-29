@@ -30,7 +30,7 @@
 
 ---
 ### 🛢 Bests in Petroleum
-1. France 🟦
+1. France (40 Kilo bbl per day)🟦
 
 ---
 ### 🔥 Bests in Uranium
