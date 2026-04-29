@@ -1,4 +1,4 @@
-# Bests
+# Ranks (Outdated)
 🟨 = Class B , 🟦 = Class A
 ### 💵 Bests In Asset
 1. Germany (1.725M) 🟦
