@@ -1,8 +1,8 @@
 # Belgium
 #### 💰 Asset : 540M
 #### 💵 Income : 425K per day   
-#### 🙂 Fan : 100%  
-#### 🩹 Health: 100%
+#### 🙂 Fan : 100%
+#### 🩹 Health: 5,000
 #### Atomic Energy Agency approval : Not Approved
   
 ### 🔫 Military  
