@@ -1,5 +1,5 @@
 # Canada
-#### 💰 Asset : 265K
+#### 💰 Asset : 355K
 #### 💵 Income : 90K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 100%
