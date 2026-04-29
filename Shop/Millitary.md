@@ -25,18 +25,29 @@
 #### Limit : 15
 ---
 ## 🚀 Missles 
+#### Price : 30K
+#### Needs :
+ - Industrial Power Level 4
+ - Knowledge Power Level 4
+ - 20Kg Iron
+ - 25Kbbl Gasoline
+ - 2 Soldier
+#### Income :
+ - 2K Using (Everyday)
+ - +2 Defense Power (Once)
+#### Limit : 15
 ---
 ## 🛡 Anti-Aircraft
 #### Price : 10K
 #### Needs :
  - Industrial Power Level 4
  - Knowledge Power Level 4
- - 40Kg Iron
+ - 20Kg Iron
  - 2 Soldier
  - +1 Defense Power
 #### Income :
  - 2K Using (Everyday)
- - +4 Missles
+ - +2 Defense Power (Once)
 #### Limit : 15
 ---
 ## ⚛️ Atom Bomb
