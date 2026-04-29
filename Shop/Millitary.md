@@ -6,7 +6,8 @@
  - 40Kg Iron
  - 4 Soldier
 #### Income :
- - 5K Using (Everyday) 
+ - 5K Using (Everyday)
+ - +1 Jet-Fighter (Once) 
 #### Limit : 15
 ---
 ## ✈ Air-Bomber
@@ -20,12 +21,23 @@
 #### Income :
  - 5K Using (Everyday)
  - 20 Food Power Using (Once)
- - +4 Soldier
+ - +4 Soldier (Once)
 #### Limit : 15
 ---
 ## 🚀 Missles 
 ---
-## 🛡 Anti-Air
+## 🛡 Anti-Aircraft
+#### Price : 10K
+#### Needs :
+ - Industrial Power Level 4
+ - Knowledge Power Level 4
+ - 40Kg Iron
+ - 2 Soldier
+ - +1 Defense Power
+#### Income :
+ - 2K Using (Everyday)
+ - +4 Missles
+#### Limit : 15
 ---
 ## ⚛️ Atom Bomb
 #### Price : 10K
