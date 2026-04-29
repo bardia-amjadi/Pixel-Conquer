@@ -69,7 +69,7 @@
 
 ---
 ## Health
-### Hospital
+### 🥼 Hospital
 #### Price : 70K
 #### Needs :
  - 2 Piece of Land
@@ -85,7 +85,7 @@
 ### Land
 #### Price : 20K
 ---
-### Centrifuge
+### 🧪 Centrifuge
 #### Price : 100K
 #### Needs :
  - Industrial Power Level 8
