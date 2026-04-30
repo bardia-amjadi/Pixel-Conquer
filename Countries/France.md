@@ -23,7 +23,7 @@
 #### Lands : 2
 #### Farm : 5
 #### Animal Husbandry: 0
-#### Petrochemical : 2
+#### Petrochemical : 0
 #### 🔨 Industrial power : 10
 #### Shopping center : 5
 ---
@@ -38,7 +38,7 @@
 ---
 ### Mines
 #### 🪨 Iron Mine : 0
-#### 🛢 Petroleum Rig : 1
+#### 🛢 Petroleum Rig : 2
 ---
 ### ⚗ Ores
 #### 🪨 Iron : 20kg
