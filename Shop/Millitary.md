@@ -44,7 +44,7 @@
  - +1 Defense Power
 #### Income :
  - 2K Using (Everyday)
- - +2 Defense Power (Once)
+ - +400 Defense Power (Once)
 #### Limit : 15
 ---
 ## ⚛️ Atom Bomb
