@@ -10,11 +10,8 @@
  - +1 Jet-Fighter (Once) 
 #### Limit : 15
 ---
-## ✈ Air-Bomber
----
 ## 🚢 Navy
----
-## 🚢 Attack Ship
+
 ---
 ## 🪖 Soldier
 #### Price : 20K
