@@ -1,4 +1,4 @@
-# Ranks (Updated)
+# Ranks (Outdated)
 🟨 = Class B , 🟦 = Class A
 ### 💵 In Income
 1. 🥇 United Kingdom (+475K) 🟦
