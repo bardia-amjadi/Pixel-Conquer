@@ -39,8 +39,8 @@
 #### 🛢 Petroleum Rig : 0
 
 ### ⚗ Ores
-#### 🪨 Iron : 40kg
-#### 🛢 Petroleum : 0b
+#### 🪨 Iron : 20kg
+#### 🛢 Petroleum : 10kbb
 #### ⛽ Gasoline : 0b
 #### 🔥 Uranium : 0kg
 #### 🌀 Enriched uranium : 0kg
