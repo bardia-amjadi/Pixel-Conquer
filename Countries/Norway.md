@@ -1,6 +1,6 @@
 # Norway
-#### 💰 Asset : 515K
-#### 💵 Income : 165K per day   
+#### 💰 Asset : 365K
+#### 💵 Income : 155K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 32,000
 #### Atomic Energy Agency approval : Not Approved
@@ -34,8 +34,12 @@
 #### 🥕 Food Power : 0
 #### 💉 Medicine Power: 0
 
+### Mines
+#### 🪨 Iron Mine : 1
+#### 🛢 Petroleum Rig : 0
+
 ### ⚗ Ores
-#### 🪨 Iron : 0kg
+#### 🪨 Iron : 40kg
 #### 🛢 Petroleum : 0b
 #### ⛽ Gasoline : 0b
 #### 🔥 Uranium : 0kg
