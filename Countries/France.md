@@ -1,5 +1,5 @@
 # France
-### Main Information
+### ℹ️ Main Information
 #### 💰 Asset : 385K
 #### 💵 Income : 365K per day   
 #### 🙂 Fan : 100%  
