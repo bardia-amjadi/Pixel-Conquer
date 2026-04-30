@@ -53,3 +53,11 @@
  - 40Kl Petroleum Use (Using)
  - +10KL Oil (Using) 
 #### Limit : 7
+---
+## Shopping Center
+#### Price : 100K
+#### Needs :
+ - 2 Piece of Land
+#### Income :
+ - +50K Dollor
+#### Limit : 5
