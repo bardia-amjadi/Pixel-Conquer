@@ -1,6 +1,6 @@
 # Canada
 #### 💰 Asset : 25K
-#### 💵 Income : 70K per day   
+#### 💵 Income : 95K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 50,000
 #### Atomic Energy Agency approval : Not Approved
