@@ -1,6 +1,6 @@
 # United Kingdom
 ### Main Information
-#### 💰 Asset : 2
+#### 💰 Asset : 736K
 #### 💵 Income : 475K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 30,000
@@ -38,7 +38,7 @@
 ---
 ### ⚗ Ores
 #### 🪨 Iron : 0kg
-#### 🛢 Petroleum : 0b
+#### 🛢 Petroleum : 40kbbl
 #### ⛽ Gasoline : 0b
 #### 🔥 Uranium : 0kg
 #### 🌀 Enriched uranium : 0kg
