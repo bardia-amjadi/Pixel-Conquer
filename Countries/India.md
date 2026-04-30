@@ -1,6 +1,6 @@
 # India
 ### Main Information
-#### 💰 Asset : 1M
+#### 💰 Asset : 1.5M
 #### 💵 Income : 500K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 40,000
