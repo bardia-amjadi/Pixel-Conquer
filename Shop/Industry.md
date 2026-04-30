@@ -40,7 +40,7 @@
  - Knowledge Power Level 4
 #### Income :
  - 40Kl Petroleum Use (Using)
- - +19KL Gasoline (Using) 
+ - +15KL Gasoline (Using) 
 #### Limit : 7
 ---
 ## 🧪 Petrochemical (Oil)
