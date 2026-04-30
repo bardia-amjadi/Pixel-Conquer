@@ -1,5 +1,5 @@
 # Belgium
-#### 💰 Asset : 540M
+#### 💰 Asset : 965K
 #### 💵 Income : 425K per day   
 #### 🙂 Fan : 100%
 #### 🩹 Health: 5,000
