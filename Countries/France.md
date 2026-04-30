@@ -1,7 +1,7 @@
 # France
 ### ℹ️ Main Information
-#### 💰 Asset : 585K
-#### 💵 Income : 365K per day   
+#### 💰 Asset : 110K
+#### 💵 Income : 315K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 45,000
 #### ⚛️ Atomic Energy Agency approval : Not Approved
@@ -32,7 +32,7 @@
 #### Atom Bombs : 0
 ---
 ### 💊 Food and Medicine
-#### 🥕 Food Power : 0
+#### 🥕 Food Power : 50
 #### 💉 Medicine Power: 0
 ---
 ### ⚗ Ores
