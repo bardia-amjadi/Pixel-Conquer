@@ -11,7 +11,7 @@
 #### Limit : 7
 ---
 ## 🛫 Airport
-#### Price : 150K
+#### Price : 20K
 #### Needs :
  - Industrial Power Level 6
  - Knowledge Power 4
