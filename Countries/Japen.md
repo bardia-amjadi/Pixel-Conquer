@@ -1,5 +1,5 @@
 # Japen
-#### 💰 Asset : 675K
+#### 💰 Asset : 925K
 #### 💵 Income : 250K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 20,000
