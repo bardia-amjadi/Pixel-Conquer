@@ -38,7 +38,6 @@
  - 2 Piece of Land
  - Industrial Power Level 10
  - Knowledge Power Level 4
- - 20KL Petroleum 
 #### Income :
  - 40Kl Petroleum Use (Using)
  - +19KL Gasoline (Using) 
@@ -50,7 +49,6 @@
  - 2 Piece of Land
  - Industrial Power Level 10
  - Knowledge Power Level 4
- - 20KL Petroleum 
 #### Income :
  - 40Kl Petroleum Use (Using)
  - +10KL Oil (Using) 
