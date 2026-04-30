@@ -4,6 +4,7 @@
 #### 💵 Income : 500K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 40,000
+#### Takeoff/Day : 0
 #### Atomic Energy Agency approval : Not Approved
 ---
 ### 🔫 Military  
