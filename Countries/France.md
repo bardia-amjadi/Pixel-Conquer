@@ -1,6 +1,6 @@
 # France
 ### ℹ️ Main Information
-#### 💰 Asset : 310K
+#### 💰 Asset : 374K
 #### 💵 Income : 315K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 45,000
@@ -42,7 +42,7 @@
 ---
 ### ⚗ Ores
 #### 🪨 Iron : 20kg
-#### 🛢 Petroleum : 70kbbl
+#### 🛢 Petroleum : 30kbbl
 #### ⛽ Gasoline : 0b
 #### 🔥 Uranium : 0kg
 #### 🌀 Enriched uranium : 0kg
