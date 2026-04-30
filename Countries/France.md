@@ -20,7 +20,7 @@
 ### 🔧 Industrial  
 #### 🏭 Factories : 5
 #### Lands : 2
-#### Farm : 0
+#### Farm : 5
 #### Animal Husbandry: 0
 #### Petrochemical : 2
 #### 🔨 Industrial power : 10
