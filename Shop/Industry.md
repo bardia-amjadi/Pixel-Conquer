@@ -51,7 +51,7 @@
  - Knowledge Power Level 4
 #### Income :
  - 40Kl Petroleum Use (Using)
- - +100kbbl Oil (Using) 
+ - +10kbbl Oil (Using) 
 #### Limit : 7
 ---
 ## Shopping Center
