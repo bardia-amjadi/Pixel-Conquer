@@ -35,6 +35,10 @@
 #### 🥕 Food Power : 50
 #### 💉 Medicine Power: 0
 ---
+### Mines
+#### 🪨 Iron Mine : 0
+#### 🛢 Petroleum Rig : 1
+---
 ### ⚗ Ores
 #### 🪨 Iron : 0kg
 #### 🛢 Petroleum : 80kbbl
