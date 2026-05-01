@@ -42,7 +42,7 @@
 ---
 ### ⚗ Ores
 #### 🪨 Iron : 20kg
-#### 🛢 Petroleum : 30kbbl
+#### 🛢 Petroleum : 110kbbl
 #### ⛽ Gasoline : 0b
 #### 🔥 Uranium : 0kg
 #### 🌀 Enriched uranium : 0kg
