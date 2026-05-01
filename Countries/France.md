@@ -1,6 +1,6 @@
 # France
 ### ℹ️ Main Information
-#### 💰 Asset : 374K
+#### 💰 Asset : 689K
 #### 💵 Income : 315K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 45,000
