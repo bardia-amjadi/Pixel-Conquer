@@ -15,8 +15,8 @@
 ---
 ### 💰 In Assets
 1. 🥇 Belgium (1.39M) 🟨
-2. 🥈 India (1.2M) 🟦
-3. 🥉United Kingdom (1.211M) 🟦
+2. 🥈 United Kingdom (1.211M) 🟦
+3. 🥉India (1.2M) 🟦
 4. Japan (1.175M) 🟦
 5. Germany (895K) 🟦
 6. Iran (850K) 🟨
