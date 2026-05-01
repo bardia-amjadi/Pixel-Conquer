@@ -1,6 +1,6 @@
 # Portugal
 ### Main Information
-#### 💰 Asset : 450K
+#### 💰 Asset : 500K
 #### 💵 Income : 50K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 15,000
