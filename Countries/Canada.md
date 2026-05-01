@@ -1,6 +1,6 @@
 # Canada
 ### Main Information
-#### 💰 Asset : 95K
+#### 💰 Asset : 165K
 #### 💵 Income : 70K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 50,000
@@ -33,7 +33,7 @@
 #### Atom Bombs : 0
 ---
 ### 💊 Food and Medicine
-#### 🥕 Food Power : 10
+#### 🥕 Food Power : 20
 #### 💉 Medicine Power: 0
 ---
 ### ⚗ Ores
