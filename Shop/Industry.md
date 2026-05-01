@@ -29,7 +29,7 @@
  - Knowledge Power Level 2
 #### Income :
  - 20K Use (Everyday)
- - +30 Food Power (Once)
+ - +10 Food Power (Everyday)
 #### Limit : 5
 ---
 ## 🧪 Petrochemical (Gasoline)
