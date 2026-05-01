@@ -33,7 +33,7 @@
 #### Atom Bombs : 0
 ---
 ### 💊 Food and Medicine
-#### 🥕 Food Power : 20
+#### 🥕 Food Power : 10
 #### 💉 Medicine Power: 0
 ---
 ### ⚗ Ores
