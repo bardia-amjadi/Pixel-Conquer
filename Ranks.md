@@ -13,16 +13,17 @@
 10. Portugal (+50K) 🟨
 ---
 ### 💰 In Assets
-1. 🥇 Japan (675K) 🟦
-2. 🥈 Belgium (540K) 🟨
-3. 🥉 Portugal (400K) 🟨
-4. United Kingdom (325K) 🟦
-5. Norway (250K) 🟨
-6. Netherland (100K) 🟨
-7. Germany (100K) 🟦
-8. Canada (25K) 🟨
-9. France (20K) 🟦
-10. Iran (0K) 🟨
+1. 🥇 India (2M)
+2. 🥈 Belgium (1.39M)
+3. 🥉 United Kingdom (1.211M)
+4. Japan (1.175M)
+5. Germany (895K)
+6. Iran (850K)
+7. France (689K)
+8. Norway (520K)
+9. Portugal (500K)
+10. Netherland (430K)
+11. Canada (165K)
    
 ---
 ### 🪖 In Military 
