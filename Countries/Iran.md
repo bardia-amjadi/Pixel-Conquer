@@ -1,6 +1,6 @@
 # Iran
 ### Main Information
-#### 💰 Asset : 425K
+#### 💰 Asset : 850K
 #### 💵 Income : 425K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 25,000
