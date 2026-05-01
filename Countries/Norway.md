@@ -1,6 +1,6 @@
 # Norway
 ### Main Information
-#### 💰 Asset : 365K
+#### 💰 Asset : 520K
 #### 💵 Income : 155K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 32,000
