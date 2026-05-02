@@ -18,7 +18,7 @@
 2. 🥈 United Kingdom (1.211M) 🟦
 3. 🥉India (1.2M) 🟦
 4. Japan (1.175M) 🟦
-5. Germany (895K) 🟦
+5. Germany () 🟦
 6. Iran (850K) 🟨
 7. France (689K) 🟦
 8. Norway (520K) 🟨
