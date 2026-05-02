@@ -1,6 +1,6 @@
 # Japan
 ### Main Information
-#### 💰 Asset : 1.175M
+#### 💰 Asset : 1.425M
 #### 💵 Income : 250K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 20,000
