@@ -2,13 +2,13 @@
 #### Price : 20K
 ---
 ## 🏗 Factory
-#### Price : 50K
+#### Price : 100K
 #### Needs :
  - 1 Piece of Land
 #### Income :
  - +25K Income (Everyday)
  - +2 Industrial Power (Once)
-#### Limit : 5
+#### Limit : 8
 ---
 ## 🏕 Farm
 #### Price : 75K
@@ -55,9 +55,9 @@
 #### Limit : 7
 ---
 ## Shopping Center
-#### Price : 100K
+#### Price : 200K
 #### Needs :
  - 2 Piece of Land
 #### Income :
  - +50K Dollor
-#### Limit : 5
+#### Limit : 8
