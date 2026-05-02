@@ -1,6 +1,6 @@
 # Netherland
 ### Main Information
-#### 💰 Asset : 430K
+#### 💰 Asset : 595K
 #### 💵 Income : 165K per day   
 #### 🙂 Fan : 100%  
 #### 🩹 Health: 7,000
